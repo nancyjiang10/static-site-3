@@ -10,9 +10,9 @@ This is your page!
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Become a force for good. Join our next class.';
-  let byline = 'NYCity News Service';
-  let pubDate = '2026-01-31';
+  let headline = 'Diana Moreno Wins Election for the Mayor’s Assembly Seat';
+  let byline = 'Benjy Sachs';
+  let pubDate = '2026-02-05';
 
   // Related stories
   const relatedStories = [
@@ -49,40 +49,97 @@ This is your page!
   <!-- Article Body: The main story text with proper typography -->
   <ArticleBody>
     <p>
-      At the Craig Newmark Graduate School of Journalism at the City University of New York, change is in our DNA. That comes of being born in 2006, as the digital revolution was transforming our profession in ways none of us could have imagined.
+As Mayor Zohran Mamdani cruised to an improbable victory in the Democratic primary, three New York City Democratic Socialists of America stalwarts began to ask themselves the same question: Could I fill his shoes?
+
     </p>
 
     <p>
-      We fashioned a school to teach the latest storytelling, entrepreneurial, and technological skills alongside reporting, writing, and ethics. Beyond that, we’ve crafted a culture that spurns complacency, that isn’t afraid to pivot before the ground under us shifts.
+Mamdani’s vacated State Assembly seat required Gov. Kathy Hochul to schedule a special election for Feb. 3. Moreno won handily, receiving nearly three-quarters of the vote, beating out fellow DSA members Rana Abdelhamid and Mary Jobaida. Moreno will soon take her place in Albany, but the primary election for a full term will be held in June.
+
     </p>
 
     <p>
-      Our mission is to serve the public interest – by training new journalists from varied economic, racial, and cultural backgrounds who will bring much-needed diversity to newsrooms, by helping mid-career journalists retool their skills, and by partnering with other media organizations to find new paths to excellence.
+The election in Assembly District 36, which includes Long Island City and the so-called “People’s Republic of Astoria,” presented an opportunity for NYC-DSA to grow its political roster on the heels of its mayoral upset. Yet, as the ascendant leftist organization grapples with wielding executive power for the first time in New York City, the internecine race has also highlighted internal tensions. With few ideological differences to separate the candidates, NYC-DSA elevated a close ally of Mamdani — effectively deciding the race long before voters weighed in at the polls.
+
     </p>
 
     <p>
-      Our low tuition rates, along with the added backing of private donors, allow candidates for our master’s degrees in journalism and engagement journalism to receive a world-class education at an affordable price. We also offer a unique bilingual master’s in journalism for students fluent in English and Spanish.
+On Dec. 8, the group anointed Moreno, who recently served as Queens DSA co-chair and NYC-DSA’s communications coordinator. And then on Dec. 20, Mamdani himself endorsed Moreno — a huge boon in a district where he is incredibly popular.
+
     </p>
 
     <p>
-      Our three media centers provide research, training, thought leadership, industry meet-ups, and financial support for quality journalistic work.
+Moreno said what set her apart in the race is her experience in NYC-DSA leadership and organized labor. She runs communications for the New York State Nurses Association, which is currently in the fourth week of its strike against several major hospital systems in the city. The former DSA leader also highlighted her advocacy against Immigration and Customs Enforcement, an issue that she says is deeply personal, having immigrated from Ecuador as a child. Moreno was arrested at an anti-ICE protest at 26 Federal Plaza in September alongside several elected officials.
+
     </p>
 
     <p>
-      We also offer a robust professional education program through regular evening and weekend workshops. And we support in-depth reporting projects of professional journalists through fellowship grants.
+She positioned herself as an energized leader ready to help Mamdani implement his campaign promises.
+
     </p>
 
     <p>
-      Classes are led by accomplished full-time faculty and adjuncts, who tap their networks to help students and graduates find internships, freelance opportunities and — the ultimate prize — jobs.
+“He’s going to need unwavering allies in Albany,” Moreno said.
+
     </p>
 
     <p>
-      At a time when our profession is reeling from financial pressures and lack of trust, the Newmark Graduate School of Journalism is committed to producing the next generation of skilled, ethically minded, and diverse journalists.
+She stressed the need for the socialist group to unify around its endorsed candidate.
+
     </p>
 
     <p>
-      We invite you to be part of our world.
+“I committed myself to suspend my campaign if I didn’t get the New York City DSA endorsement,” Moreno said. “To me, that is sort of the litmus test for who really is a DSA candidate.”
+
     </p>
+    <p> However, not every DSA politician lined up behind Moreno.
+
+</p>
+<p> Rep. Rashida Tlaib endorsed Abdelhamid, the founder of Malikah, a nonprofit that offers self-defense training to New Yorkers, especially Middle Eastern and North African women.
+
+</p>
+<p> Tlaib headlined a star-studded fundraiser for Abdelhamid on Dec. 14 at Ayat Astoria, a Palestinian restaurant, joined by former Comptroller Brad Lander and Councilmember Julie Won.
+
+</p>
+<p> “I have a preexisting relationship with Rana,” Tlaib told NYCity News Service when asked why she supported Abdelhamid over Moreno, NYC-DSA’s endorsed candidate. “I feel very much like she’s been my mentee … She’s a friend and a sister and I’m going to support her.”
+
+</p>
+<p> Lander also spoke at the event about his personal relationship with Abdelhamid, who is Egyptian-American and Muslim. He highlighted the importance of building solidarity between Jewish and Muslim New Yorkers.
+
+</p>
+<p> “This morning when, after this horrific killing in Sydney,” Lander said, referencing the shooting targeting Jews at Bondi Beach, “one of the first texts I got was from my Muslim sister, from Rana Abdelhamid.”
+
+</p>
+<p> Abdelhamid, who was born and raised in Astoria, emphasized her deep roots and longtime organizing work in the district.
+
+</p>
+<p> “I’ve been on the front lines, working on food security, supporting asylum seekers, organizing for housing security,” Abdelhamid said. “People have seen my work firsthand. They’ve worked alongside me. They’ve marched with me. I think that is the kind of leadership people want.”
+
+</p>
+<p> Rounding out the field was another longtime organizer. Jobaida, who moved to New York from Bangladesh in 2001, is a community activist who has worked in education, media, and local politics.
+
+</p>
+<p> Her campaign focused on affordability and on building housing that working-class people can afford. She said that witnessing gentrification and displacement in Long Island City has demonstrated the shortcomings of the city’s housing policy. She criticized the Long Island City neighborhood plan that passed the City Council on Nov. 12 for not including enough affordable housing.
+
+</p>
+<p> Jobaida ran for State Assembly in 2020 in district 37, before redrawn boundaries moved her into her current district. She finished second in the Democratic primary, losing by about 10%.
+
+</p>
+<p> “No big organization endorsed me,” Jobaida said of her 2020 campaign. “Because I had to run my campaign almost alone, I got extremely experienced and savvy about campaigning.”
+
+</p>
+<p> She believed her electoral experience and enthusiastic support from the Bangladeshi community would help her win the race. Still, losing out on NYC-DSA’s this time around stung.
+
+</p>
+<p> “I felt heartbroken,” Jobaida said. “This is my family.”
+
+</p>
+<p> Jobaida vowed to continue campaigning despite missing out on the organization’s backing.
+
+</p>
+<p> “I think that I will make DSA proud in another way,” Jobaida said. “And I’m still socialist. You cannot change me. You may disown me, but I’m still a socialist.”
+
+</p>
   </ArticleBody>
 
   <!-- Related Stories: Links to other articles -->
